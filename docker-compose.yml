@@ -1,0 +1,15 @@
+services:
+  web:
+    build: .
+    container_name: django-blog
+    ports:
+      - "8000:8000"
+    command: gunicorn myproject.wsgi:application --bind 0.0.0.0:8000 --timeout 120
+    environment:
+      DJANGO_SECRET_KEY: "dev-secret-key"
+      DEBUG: "False"
+      ALLOWED_HOSTS: "localhost,127.0.0.1"
+    volumes:
+      - ./data:/app/data
+      - ./media:/app/media
+    restart: unless-stopped
