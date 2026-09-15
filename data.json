@@ -1,0 +1,792 @@
+[
+  {
+    "model": "contenttypes.contenttype",
+    "fields": {
+      "app_label": "admin",
+      "model": "logentry"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "fields": {
+      "app_label": "auth",
+      "model": "permission"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "fields": {
+      "app_label": "auth",
+      "model": "group"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "fields": {
+      "app_label": "auth",
+      "model": "user"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "fields": {
+      "app_label": "contenttypes",
+      "model": "contenttype"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "fields": {
+      "app_label": "sessions",
+      "model": "session"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "fields": {
+      "app_label": "myapp",
+      "model": "userinfo"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "fields": {
+      "app_label": "myapp",
+      "model": "post"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "fields": {
+      "app_label": "myapp",
+      "model": "comment"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "fields": {
+      "app_label": "myapp",
+      "model": "contact"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "8kye4wm6rs9lrn8d3omk3gdi16oin3ju",
+    "fields": {
+      "session_data": ".eJxVjDsOwjAQBe_iGlne-KelpOcM1ma9wQFkS3FSIe4OkVJA-2bmvVSibS1p67KkOauzAqtOv-NI_JC6k3ynemuaW12XedS7og_a9bVleV4O9--gUC_ferLWBRMzoLMRPQoOPgrKEIxnDpkdGoYQEIE8g1gxHkAmIh-JbVTvD9q6N1Q:1uCHvh:82sLGyTdPDi2Wai4mbFbxR2UKIKqSnxoIwRS6H5Rd2Q",
+      "expire_date": "2025-05-20T13:01:49.147Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "ckr12y6nw8vfqz1r9m5jpw7ib6bopjop",
+    "fields": {
+      "session_data": ".eJxVjDsOwjAQBe_iGlne-KelpOcM1ma9wQFkS3FSIe4OkVJA-2bmvVSibS1p67KkOauzAqtOv-NI_JC6k3ynemuaW12XedS7og_a9bVleV4O9--gUC_ferLWBRMzoLMRPQoOPgrKEIxnDpkdGoYQEIE8g1gxHkAmIh-JbVTvD9q6N1Q:1uNWxM:6oNlrrnr2kzdGcfonzAejxkzos-1Mq9cf1pRqY4fGgU",
+      "expire_date": "2025-06-20T13:18:00.981Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "ddhqjisty7gz156qreqvlq6nffvlurhh",
+    "fields": {
+      "session_data": ".eJxVjMsOwiAQRf-FtSFAGWBcuvcbCMNDqgaS0q6M_65NutDtPefcF_NhW6vfRl78nNiZSWCn35FCfOS2k3QP7dZ57G1dZuK7wg86-LWn_Lwc7t9BDaN-6xgMgbUSACdIzio9CSIEG3ByYFC6JESWMqIWpViKREIbR84UFEpZ9v4A3zE29w:1x3jsp:AXGEBDtMAGZauKw159Wbx8eXtR2A8N_uQeXmack7MSM",
+      "expire_date": "2026-09-22T00:40:19.746Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "gni8lofqmcyep9u93l1c8q18vd6tmgep",
+    "fields": {
+      "session_data": ".eJxVjDsOwjAQBe_iGlne-KelpOcM1ma9wQFkS3FSIe4OkVJA-2bmvVSibS1p67KkOauzAqtOv-NI_JC6k3ynemuaW12XedS7og_a9bVleV4O9--gUC_ferLWBRMzoLMRPQoOPgrKEIxnDpkdGoYQEIE8g1gxHkAmIh-JbVTvD9q6N1Q:1u2IyY:_NOU0i-243z9EHYOjnpXvMSLNG4FDG1eq193TFj6Gig",
+      "expire_date": "2025-04-23T00:07:30.553Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "ij4529h6gnrj4t0ftf7kgoxlyvvd800w",
+    "fields": {
+      "session_data": ".eJxVjDsOwjAQBe_iGlne-KelpOcM1ma9wQFkS3FSIe4OkVJA-2bmvVSibS1p67KkOauzAqtOv-NI_JC6k3ynemuaW12XedS7og_a9bVleV4O9--gUC_ferLWBRMzoLMRPQoOPgrKEIxnDpkdGoYQEIE8g1gxHkAmIh-JbVTvD9q6N1Q:1tx4Zd:G5FOG5xy6UpU6-OJSqlxtKZSmwon1Ws7bbo6XevTArk",
+      "expire_date": "2025-04-08T13:44:09.742Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "kodnpk1mwksi784zk7s35leefepkxtgf",
+    "fields": {
+      "session_data": ".eJxVjDEOAiEQRe9CbQggMoOlvWcgMAyyaiBZdivj3XWTLbT9773_EiGuSw3r4DlMWZyFF4ffLUV6cNtAvsd265J6W-YpyU2ROx3y2jM_L7v7d1DjqN8ao7ZEqvisEiEhGkZ21sLp6MAxZqupKFC5gAMEIo0JIRVrvTJkQLw_6Kk3mg:1qcsCk:FNPmClBnwZQ8L5tg3DEkjD4zvyIM8ede-XE9nz3CQj0",
+      "expire_date": "2023-09-17T18:52:14.804Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "m89egdamsnzagse27pmtz472zzyyfbt2",
+    "fields": {
+      "session_data": ".eJxVjDsOwjAQBe_iGlne-KelpOcM1ma9wQFkS3FSIe4OkVJA-2bmvVSibS1p67KkOauzAqtOv-NI_JC6k3ynemuaW12XedS7og_a9bVleV4O9--gUC_ferLWBRMzoLMRPQoOPgrKEIxnDpkdGoYQEIE8g1gxHkAmIh-JbVTvD9q6N1Q:1uCT8n:YnzeI2TnebQT7zRa1UOj1nDrq-UIRUt7iB2F7VqMNlo",
+      "expire_date": "2025-05-21T01:00:05.024Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "nmq3zsj07gaou4zh0gqrh66m5h8vq4mb",
+    "fields": {
+      "session_data": ".eJxVjMEOwiAQBf-FsyGswAIevfcbCLAgVQNJaU_Gf9cmPej1zcx7MR-2tfpt5MXPxC4MNDv9jjGkR247oXtot85Tb-syR74r_KCDT53y83q4fwc1jPqtsThFQjgki4asysWQgCzPxhCVoBJoIsDoQEJCq7TTmhAxgEhGJsHeH_6aN4Y:1x3maA:58VLCqmX6ysyu73CbMDC375HI0z96iQrlG3p4IxwaqM",
+      "expire_date": "2026-09-22T03:33:14.302Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "xw6x958mdbqyo07naizm5a0nsuqs39dw",
+    "fields": {
+      "session_data": ".eJxVjDsOwjAQBe_iGll24h-U9JzBWu-ucQDZUpxUiLuTSCmgnZn33iLCupS4dp7jROIivDj9sgT45LoLekC9N4mtLvOU5J7Iw3Z5a8Sv69H-HRToZVtzsA4dmqxH8Do7k9GPFMhbUmdrc7LogsmwMU_s8khMzg6gB1QERonPF_a9OHU:1qclWM:nBPth90n7oxQjnIV8wtInxMcH8fOw2pRykEBAMIhHzs",
+      "expire_date": "2023-09-17T11:44:02.963Z"
+    }
+  },
+  {
+    "model": "myapp.contact",
+    "pk": 4,
+    "fields": {
+      "name": "Happy",
+      "email": "ajay@gmail.com",
+      "subject": "sad",
+      "message": "asfcas"
+    }
+  },
+  {
+    "model": "myapp.contact",
+    "pk": 5,
+    "fields": {
+      "name": "Happy",
+      "email": "ajay@gmail.com",
+      "subject": "sad",
+      "message": "asfcas"
+    }
+  },
+  {
+    "model": "myapp.contact",
+    "pk": 6,
+    "fields": {
+      "name": "Happy",
+      "email": "ajay@gmail.com",
+      "subject": "sad",
+      "message": "asfcas"
+    }
+  },
+  {
+    "model": "myapp.contact",
+    "pk": 7,
+    "fields": {
+      "name": "Happy",
+      "email": "ajay@gmail.com",
+      "subject": "sad",
+      "message": "asfcas"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can add log entry",
+      "content_type": [
+        "admin",
+        "logentry"
+      ],
+      "codename": "add_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can change log entry",
+      "content_type": [
+        "admin",
+        "logentry"
+      ],
+      "codename": "change_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can delete log entry",
+      "content_type": [
+        "admin",
+        "logentry"
+      ],
+      "codename": "delete_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can view log entry",
+      "content_type": [
+        "admin",
+        "logentry"
+      ],
+      "codename": "view_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can add permission",
+      "content_type": [
+        "auth",
+        "permission"
+      ],
+      "codename": "add_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can change permission",
+      "content_type": [
+        "auth",
+        "permission"
+      ],
+      "codename": "change_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can delete permission",
+      "content_type": [
+        "auth",
+        "permission"
+      ],
+      "codename": "delete_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can view permission",
+      "content_type": [
+        "auth",
+        "permission"
+      ],
+      "codename": "view_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can add group",
+      "content_type": [
+        "auth",
+        "group"
+      ],
+      "codename": "add_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can change group",
+      "content_type": [
+        "auth",
+        "group"
+      ],
+      "codename": "change_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can delete group",
+      "content_type": [
+        "auth",
+        "group"
+      ],
+      "codename": "delete_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can view group",
+      "content_type": [
+        "auth",
+        "group"
+      ],
+      "codename": "view_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can add user",
+      "content_type": [
+        "auth",
+        "user"
+      ],
+      "codename": "add_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can change user",
+      "content_type": [
+        "auth",
+        "user"
+      ],
+      "codename": "change_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can delete user",
+      "content_type": [
+        "auth",
+        "user"
+      ],
+      "codename": "delete_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can view user",
+      "content_type": [
+        "auth",
+        "user"
+      ],
+      "codename": "view_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can add content type",
+      "content_type": [
+        "contenttypes",
+        "contenttype"
+      ],
+      "codename": "add_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can change content type",
+      "content_type": [
+        "contenttypes",
+        "contenttype"
+      ],
+      "codename": "change_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can delete content type",
+      "content_type": [
+        "contenttypes",
+        "contenttype"
+      ],
+      "codename": "delete_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can view content type",
+      "content_type": [
+        "contenttypes",
+        "contenttype"
+      ],
+      "codename": "view_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can add session",
+      "content_type": [
+        "sessions",
+        "session"
+      ],
+      "codename": "add_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can change session",
+      "content_type": [
+        "sessions",
+        "session"
+      ],
+      "codename": "change_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can delete session",
+      "content_type": [
+        "sessions",
+        "session"
+      ],
+      "codename": "delete_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can view session",
+      "content_type": [
+        "sessions",
+        "session"
+      ],
+      "codename": "view_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can add user info",
+      "content_type": [
+        "myapp",
+        "userinfo"
+      ],
+      "codename": "add_userinfo"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can change user info",
+      "content_type": [
+        "myapp",
+        "userinfo"
+      ],
+      "codename": "change_userinfo"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can delete user info",
+      "content_type": [
+        "myapp",
+        "userinfo"
+      ],
+      "codename": "delete_userinfo"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can view user info",
+      "content_type": [
+        "myapp",
+        "userinfo"
+      ],
+      "codename": "view_userinfo"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can add post",
+      "content_type": [
+        "myapp",
+        "post"
+      ],
+      "codename": "add_post"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can change post",
+      "content_type": [
+        "myapp",
+        "post"
+      ],
+      "codename": "change_post"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can delete post",
+      "content_type": [
+        "myapp",
+        "post"
+      ],
+      "codename": "delete_post"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can view post",
+      "content_type": [
+        "myapp",
+        "post"
+      ],
+      "codename": "view_post"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can add comment",
+      "content_type": [
+        "myapp",
+        "comment"
+      ],
+      "codename": "add_comment"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can change comment",
+      "content_type": [
+        "myapp",
+        "comment"
+      ],
+      "codename": "change_comment"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can delete comment",
+      "content_type": [
+        "myapp",
+        "comment"
+      ],
+      "codename": "delete_comment"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can view comment",
+      "content_type": [
+        "myapp",
+        "comment"
+      ],
+      "codename": "view_comment"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can add contact",
+      "content_type": [
+        "myapp",
+        "contact"
+      ],
+      "codename": "add_contact"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can change contact",
+      "content_type": [
+        "myapp",
+        "contact"
+      ],
+      "codename": "change_contact"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can delete contact",
+      "content_type": [
+        "myapp",
+        "contact"
+      ],
+      "codename": "delete_contact"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "fields": {
+      "name": "Can view contact",
+      "content_type": [
+        "myapp",
+        "contact"
+      ],
+      "codename": "view_contact"
+    }
+  },
+  {
+    "model": "auth.user",
+    "fields": {
+      "password": "pbkdf2_sha256$600000$ApHWeFxetBz0rDHJSknV5T$T0jpRH3Ne5r5yyCMm0mVkRqKqc2JN3JsUBrEnCX81xg=",
+      "last_login": "2023-09-04T04:31:04.415Z",
+      "is_superuser": true,
+      "username": "Keerti",
+      "first_name": "Keerti",
+      "last_name": "Vishwkarma",
+      "email": "keerti@gmail.com",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2023-09-03T18:13:38Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "fields": {
+      "password": "pbkdf2_sha256$600000$98iwX4GUKzGz0zqzDKDCUO$ibPZ9Akl3214iuu6pfpsdZZfKckyxFVCXjritxiSxig=",
+      "last_login": "2023-09-03T18:31:24.025Z",
+      "is_superuser": false,
+      "username": "Ajay",
+      "first_name": "",
+      "last_name": "",
+      "email": "ajay@gmail.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-09-03T18:31:10.348Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "fields": {
+      "password": "pbkdf2_sha256$600000$jEhHQnBZ06dc9pRmKi9HFE$2gp8XZuXASjvAX8qy9pg1oVGJ+XQvgs91hMBJYcvCVE=",
+      "last_login": "2023-09-03T18:37:44.727Z",
+      "is_superuser": false,
+      "username": "Shubham",
+      "first_name": "",
+      "last_name": "",
+      "email": "shubham@gmail.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-09-03T18:37:32.035Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "fields": {
+      "password": "pbkdf2_sha256$600000$uu4J3kBrpGhozJ7uNCNMoL$qvmJBMxtJGoRfBpa+XvUewVBMfQ49PZBxL6/wpwzJkU=",
+      "last_login": "2023-09-04T04:40:42.826Z",
+      "is_superuser": false,
+      "username": "Shivani",
+      "first_name": "Shivani",
+      "last_name": "Sharma",
+      "email": "shivani@gmail.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2023-09-04T04:40:33.121Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "fields": {
+      "password": "pbkdf2_sha256$870000$T8QgTRveYSXxskorxcxr9a$l8im6hpbNCVUfw/b7xJtsBWSwuRKmFi5H6tXWLOamDg=",
+      "last_login": "2025-06-06T13:18:00.978Z",
+      "is_superuser": false,
+      "username": "khanh",
+      "first_name": "khanh nguiuen",
+      "last_name": "quang",
+      "email": "abc@gmail.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2025-03-25T13:43:51.778Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "fields": {
+      "password": "pbkdf2_sha256$870000$zgCyoDpgPxm1AH6Y5wwGmW$ErsXOX08XCPWbWHeAgncNKp+2vJLeaUm0lZjyIOZxTU=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "Khanh123",
+      "first_name": "",
+      "last_name": "",
+      "email": "khanh102@gmail.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2025-04-16T01:13:24.066Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "fields": {
+      "password": "pbkdf2_sha256$1500000$Ho76WXPI038A2eQmX4W7M4$3wjxcNyxDBq/4bpK0Xkg3idSon2ZMhWmLuIqVppzzD4=",
+      "last_login": "2026-09-08T03:33:14.286Z",
+      "is_superuser": true,
+      "username": "admin",
+      "first_name": "",
+      "last_name": "",
+      "email": "admin@gmail.com",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2026-09-08T00:39:12.231Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "fields": {
+      "password": "pbkdf2_sha256$1500000$yzkZsHUwqc53n9HrbTcrro$z2NilwnU2I+/4GpDj9UPKiPu81KOTumpLTDnPl8CwGU=",
+      "last_login": "2026-09-08T03:31:40.031Z",
+      "is_superuser": false,
+      "username": "khanhta",
+      "first_name": "",
+      "last_name": "",
+      "email": "khanh@gmail.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2026-09-08T03:31:23.965Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "myapp.post",
+    "pk": 18,
+    "fields": {
+      "postname": "ON THE ROAD OF LIFE",
+      "category": "Travel",
+      "image": "images/posts/img3.jpg",
+      "audio": "",
+      "content": "JENNIFER. I�m sitting on the edge of the Pacific Ocean on Russia�s wild east coast, deep in Siberia, not far from the idyllic port town of Vladivostock. I�m gazing out over the sea, observing the enormous ships in the distance with a vague sense of longing. I�m absorbed in my thoughts, listening to the melancholy folk songs drifting from a small tent not far from our truck.  Recently we were asked why we�re even doing this. The journey. After a brief pause, I came up with a simple answer:  �Because there was no reason not to.�      KCK_6396      It�s early summer in 2012. Peter and I are sitting in a small pub in my Munich neighbourhood � and trembling. Both of us are clutching a glass of wine and glancing nervously at the placemats on the table. �What the hell are we doing?� we keep asking ourselves, shaking our heads. Are we crazy? My heart is pounding. It feels like something�s dancing in my stomach. I take a gulp of wine. A big one.  We�ve known each other for four and a half months. Granted, we know each other pretty well for such a short time. But is it enough to set off on an adventure together? We�ve never even lived together.  What the hell am I doing here?  A hand-written bill of sale is lying on the table in front of us. It�s for a truck. An HGV that�s almost thirty years old. Seven and a half tons! It�s going to be our first home together. No problem, right? And in our new home we�re going to head east, as far as we can go. Or as long as we�re still enjoying it.  But can I just up sticks like that? After four and a half months, can I spend a whole chunk of my life on the road with someone? Someone I barely know? What the hell �? Can I just quit my stable and secure job? Put my career on hold? End it, even? Give up on security? Leave my comfort zone? Can I swap my spacious apartment for seven narrow square metres of living space? Can I just drop everything to set off into the world with Peter? I look at him. We�ve got to laugh. Soon we�re in agreement: yes, we can.  Hell, yeah!  When Peter and I first met, we were at a similar point in our lives. We were hard-working people, living intense, socially and environmentally aware lives in Basel and Munich, respectively. We had wonderful friends. We loved to travel. We�d already sown our wild oats. Workwise we were more or less successful � even if we questioned what we were doing at regular intervals. We were active. At the end of each month we were able to put a little money aside. We both considered ourselves happy.  Meeting in March 2012 enriched our lives in a completely unexpected and unforeseen way, making our happiness complete. From day one we�ve converted this wave of happiness and the gratitude we feel for it into positive energy, venturing into a new phase of our lives together. We�re well aware that there are plenty of reasons why this is a crazy idea. But we also know that for us, in this moment, there isn�t a single reason not to do it.  On this rainy evening, I�m thirty-five years old. Peter is forty. We�re at the mid-point of our lives. But we want to take this journey while we�re still young and healthy. We want to see the world as it really is. We want to have our understanding of the world confirmed � or altered. We want to see the world now, while it�s still like this. And we�d love to get to know foreign cultures and peoples.      dsc_0189     Above all, however, we want to get to know ourselves. We want to spend a lot of time together � more time than our current lives would allow. We want to know the meaning of freedom, and how we�d handle it. And we want to know what it means to have less and to live more simply. We want to find out how we work as a team and how we grow together. We want to live and be and feel and move. We want to pare down our lives, chuck all the ballast overboard and take some time off. We want to look more closely at what�s going on. We don�t want to change � but we do want to develop together and learn from each other.  Most of all, we want to give ourselves enough time and space for all of the above!  And maybe, ultimately, we want to end up by saying that things are fine the way they were before the journey � and to be happy with that. We want to be pupils, learning from ourselves, from each other, from � and in � this world.  So we�re at the very beginning of a long road. It might guide us in a particular direction, but that doesn�t mean it has a goal in mind.",
+      "time": "03 September 2023",
+      "likes": 0,
+      "user": [
+        "Keerti"
+      ]
+    }
+  },
+  {
+    "model": "myapp.post",
+    "pk": 19,
+    "fields": {
+      "postname": "THE BIG FIVE",
+      "category": "Travel",
+      "image": "images/posts/img4.jpg",
+      "audio": "",
+      "content": "The Big Five is a term that was coined by big-game hunters to refer to the five most difficult animals in Africa to hunt on foot. The term has since been adopted by safari tour operators and wildlife enthusiasts, and it now refers to the five most iconic and sought-after animals to see on a safari in Africa. The Big Five are:\n\n1. African Elephant: The largest land animal on Earth, known for its intelligence, social behavior, and impressive tusks.\n\n2. African Lion: Often referred to as the 'king of the jungle,' lions are known for their strength, courage, and social structure within prides.\n\n3. African Leopard: A solitary and elusive big cat, leopards are known for their stealth, agility, and beautiful spotted coats.\n\n4. African Buffalo: Also known as the Cape buffalo, these large herbivores are known for their unpredictable nature and formidable horns.\n\n5. Rhinoceros: There are two species of rhinos in Africa - the black rhino and the white rhino. Both are known for their thick skin and impressive horns, but they are also critically endangered due to poaching.",
+      "time": "04 September 2023",
+      "likes": 0,
+      "user": [
+        "Ajay"
+      ]
+    }
+  }
+]
